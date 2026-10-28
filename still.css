@@ -1,0 +1,15 @@
+body {
+    color:white;
+}
+
+body {background-color: black;}
+a {
+    color: green;
+}
+
+
+a:hover {
+    font-size: 3rem;
+    color: purple;
+    background-color: palegreen;
+}
